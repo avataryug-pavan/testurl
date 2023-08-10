@@ -1,0 +1,19 @@
+{
+        "name": "com.avataryug.unity-sdk",
+        "version": "1.0.0",
+        "displayName": "avataryug",
+        "description": "",
+        "unity": "2020.0",
+        "dependencies": {},
+        "keywords": [
+		"sdk",
+                "tools",
+                "extension",
+                "avataryug"
+        ],
+        "author": {
+                "name": "Avataryug",
+                "email": "support@avataryug.com",
+                "url": "https://portal.avataryug.com"
+        }
+}
